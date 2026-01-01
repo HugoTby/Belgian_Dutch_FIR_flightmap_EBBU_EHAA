@@ -15,5 +15,6 @@ FIR/UIR data derived from EUROCONTROL, via the [FlightMapEuropeSimple](https://g
 
 ## Screenshots
 
-![Screenshot](screenshot.png?text=App+Screenshot+Here)
+![Screenshot](EBBU.png?text=App+Screenshot+Here)
+![Screenshot](EHAA.png?text=App+Screenshot+Here)
 
